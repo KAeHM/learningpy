@@ -17,7 +17,7 @@ but if i wanted to make manually, in the line 6 i could replace "random.choice(n
 Ex02:
 
 Here i create a matrix 4x4 too, but i wanted to make a vertical line with number 1 on matrix, all other numbers should have a value 0.
-My logic was, all the vertical positions have coluns and lines with the same values, exemple: position[0,0] it's the first one, position[1,1], it's the second.
+My logic was, all the vertical positions have coluns and lines with the same values, example: position[0,0] it's the first one, position[1,1], it's the second.
 And successively, to get this i made a verification: if line = column so this is a vertical, else, this is not a vertical. 
 
 Ex03:
