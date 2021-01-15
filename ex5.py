@@ -5,7 +5,7 @@ allowances = []
 contributors = 0
 minallowance = 0
 
-#main
+#main program
 
 while cmd:
     salary = float(input('Type your salary: '))

@@ -10,3 +10,4 @@ for numberl in range(0, 4):
     for numberc in range(0, 4):
         print(f'[{matriz[numberl][numberc]}]', end = ' ')
     print('\n')
+    
