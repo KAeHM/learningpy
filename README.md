@@ -16,10 +16,17 @@ but if i wanted to make manually, in the line 6 i could replace "random.choice(n
 
 Ex02:
 
-Here i create a matrix 4x4 too, but i wanted to make a vertical line with number 1 on matrix, all other numbers should have a value 0.
+Here, i create a matrix 4x4 too, but i wanted to make a vertical line with number 1 on matrix, all other numbers should have a value 0.
 My logic was, all the vertical positions have coluns and lines with the same values, example: position[0,0] it's the first one, position[1,1], it's the second.
 And successively, to get this i made a verification: if line = column so this is a vertical, else, this is not a vertical. 
 
 Ex03:
 
-....
+The third one, i had to make a matrix 10x10 and to make a normal problem matrix, if i < j = ....  was simple.
+
+Ex04:
+
+This one was more difficult, i had to sum all values above of main vertical, my logic was, get the four numbers next to vertical (one number was inside of the vertical) and subtract the number of the vertical. In my opinion this was my worst code, i didn't like my logic but i don't know another better.
+
+Ex05:
+
