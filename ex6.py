@@ -7,7 +7,7 @@ cont = 0
 qtyvotes = 0
 a = 0
 
-# main 
+# main program
 while cmd:
     player = int(input('Choose your favorite player: '))
     if player == 0:
