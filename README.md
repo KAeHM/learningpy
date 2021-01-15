@@ -31,3 +31,7 @@ This one was more difficult, i had to sum all values above of main vertical, my 
 Ex05:
 
 Basically, i had to make a program that register how many money the company will pay to a contributiners with a allowance, and the alloawance will be 20% of pay of the contributiner, (minimum 100 dollars). In the final i had to put some informations. 
+
+Ex06:
+
+The next i had to make a program that register how many vote each player received, the player was called for your t-shirt number, i had to show: quantity of votes, which player received these votes, and the % of them. In final i had to show the winner. 
