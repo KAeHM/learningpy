@@ -22,6 +22,8 @@ while cmd:
             allowances.append(allowance)
             contributors += 1
 contributors = 0
+
+# Contibutors Output 
 print('-' * 30)
 for c in salaries:
     for b in range(1):
@@ -31,6 +33,7 @@ for c in salaries:
     print('-' * 30)
     contributors += 1
 
+# Geral Output 
 print(f'Have been processed {contributors} contributors.')
 print(f'Amount spend with allowances: ${sum(allowances)}.')
 print(f'Minimum pay for {minallowance} contributors.')
